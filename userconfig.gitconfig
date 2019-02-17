@@ -1,0 +1,8 @@
+[user]
+	name = krmito
+	email = carlosminnatoro@hotmail.com
+[color]
+	status = auto
+	branch = auto
+	diff = auto
+	interactive = auto
